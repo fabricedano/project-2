@@ -1,0 +1,97 @@
+@import url('http://fonts.cdnfonts.com/css/luminari');
+
+html {
+  height: 100%;
+}
+
+.padding-bar {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.navbar-content {
+  padding-left: 5px;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+
+.title {
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Luminari', sans-serif;
+    color: darkgoldenrod;
+}
+
+.home-title {
+  text-align: center;
+  font-family: 'Luminari', sans-serif;
+  color: darkgoldenrod;
+}
+
+.subtitle {
+    text-align: center;
+    font-family: 'Luminari', sans-serif;
+    color: crimson;
+}
+
+.news-title {
+  color: crimson;
+  font-family: fantasy;
+  letter-spacing: 1px;
+}
+
+
+.slogan {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Luminari', sans-serif;
+    padding-bottom: 20px;
+}
+
+
+.backgrd-page {
+  background-color: aliceblue;
+}
+
+.backgrd-content {
+  margin-top: 40px;
+  background-color: rgb(226, 226, 226);
+}
+
+.backgrd-gallery-content {
+  margin-top: 40px;
+  background-color: rgb(226, 226, 226);
+  margin-bottom: 40px;
+}
+
+.backgrd-presta {
+  background-color: rgb(240, 238, 238);
+  margin: 45px;
+}
+
+.formulaire {
+  margin: 10px;
+}
+
+.custom-btn {
+  margin-bottom: 10px;
+  margin-top: 10px
+}
+.formule-descrpt {
+  font-family: fantasy;
+  color: crimson;
+}
+
+.copyright {
+    background-color: rgba(33,37,47, 1);
+    color: white;
+    height: 48px;
+}
+
+.iframe {
+  width: 100vw;
+  height: 89vh;
+}
